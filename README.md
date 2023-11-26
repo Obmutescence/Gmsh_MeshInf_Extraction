@@ -1,2 +1,2 @@
 # Gmsh_MeshInf_Extraction
-Gmsh mesh information extraction
+Gmsh mesh information extraction applet
